@@ -1,0 +1,46 @@
+.cont{
+    background-color:lime;
+    height: 350px;
+    width:1250px;
+    border-radius: 40px;
+    
+}
+.cont:hover{
+    background-color: lightblue;
+    
+}
+ .rect{
+    
+    background-color: greenyellow;
+    height: 200px;
+    width: 250px;
+    margin-left: 53px;
+    border-radius: 40px;
+    margin-top: 30px;
+    float: left;
+}
+.rect h2{
+    margin-left:30px;
+    color:black;
+    
+}
+.rect  a{
+    list-style: none;
+    line-height: 40px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+ul{
+    list-style: none;
+}
+.rect:hover{
+    background-color: white;
+    transition:ease 0.7s;
+    
+}
+ul li a:hover{
+ color: magenta;
+}
